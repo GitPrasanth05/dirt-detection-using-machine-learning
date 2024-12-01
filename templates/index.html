@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIRT DETECTION</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #DEBAC0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #77567A;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            position: relative;
+        }
+        .download-report-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1em;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .download-report-button:hover {
+            background-color: #45a049;
+        }
+        .download-icon {
+            width: 20px;
+            height: 20px;
+        }
+        main {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #E39EC1;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            font-size: 2em;
+            margin: 0 0 20px 0;
+        }
+        .video-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+        }
+        .video-feed {
+            flex: 1;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            background-color: #000;
+            transition: transform 0.3s;
+        }
+        .video-feed:hover {
+            transform: scale(1.05);
+        }
+        .video-feed h2 {
+            text-align: center;
+            background-color: #eef4a6;
+            color: white;
+            margin: 0;
+            padding: 10px;
+            font-size: 1.2em;
+        }
+        .video-feed img {
+            width: 100%;
+            display: block;
+        }
+        .log-container {
+            margin-top: 20px;
+            background-color: #282c34;
+            color: #abb2bf;
+            padding: 20px;
+            border-radius: 8px;
+            height: 200px;
+            overflow-y: auto;
+        }
+        .log-container h2 {
+            margin: 0 0 10px 0;
+            font-size: 1.2em;
+            color: #2ec6de;
+        }
+        .log-container textarea {
+            width: 100%;
+            height: 100%;
+            background-color: #282c34;
+            color: #abb2bf;
+            border: none;
+            resize: none;
+            font-family: 'Courier New', monospace;
+            overflow-y: auto;
+        }
+        .control-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .control-buttons button {
+            padding: 10px 20px;
+            font-size: 1em;
+            color: rgb(255, 230, 4);
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .control-buttons button:hover {
+            background-color: #7247df;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AUTOMATIC STAIN DETECTION</h1>
+        <button class="download-report-button" onclick="downloadReport()">
+            <img class="download-icon" alt="Download Icon">Download Report
+        </button>
+    </header>
+    <main>
+        <div class="video-container">
+            <div class="video-feed">
+                <h2>Original Frame</h2>
+                <img id="originalVideo" src="/video_feed_original" />
+            </div>
+            <div class="video-feed">
+                <h2>Processed Frame</h2>
+                <img id="processedVideo" src="/video_feed_processed" />
+            </div>
+        </div>
+        <div class="control-buttons">
+            <button id="endButton">END</button>
+        </div>
+        <div class="log-container" id="logContainer">
+            <h2>Logs</h2>
+            <textarea id="logOutput" readonly></textarea>
+        </div>
+    </main>
+    <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-database.js"></script>
+    <script>
+        
+        const firebaseConfig = {
+        apiKey: "AIzaSyC3TblPxFZ-DH7it_ITyXNy6xTgr74wbVY",
+        authDomain: "automatic-dirt-detection.firebaseapp.com",
+        databaseURL: "https://automatic-dirt-detection-default-rtdb.firebaseio.com",
+        projectId: "automatic-dirt-detection",
+        storageBucket: "automatic-dirt-detection.appspot.com",
+        messagingSenderId: "610663342386",
+        appId: "1:610663342386:web:584f1d6fb86c58884b772b"
+        };
+
+        
+        firebase.initializeApp(firebaseConfig);
+        const database = firebase.database();
+
+        
+        const logsRef = database.ref('logs');
+
+
+        function updateLogs(snapshot) {
+        const logOutput = document.getElementById('logOutput');
+        logOutput.value = '';  
+        snapshot.forEach(function(childSnapshot) {
+            const log = childSnapshot.val();
+            logOutput.value += `${log.time} - ${log.message}\n`;
+        });
+    }
+
+
+    logsRef.on('value', function(snapshot) {
+        updateLogs(snapshot);
+    });
+        document.getElementById('endButton').addEventListener('click', function() {
+            fetch('/end_program', { method: 'POST' });
+        });
+    function downloadReport() {
+    fetch('/download_report')
+        .then(response => response.text())
+        .then(data => {
+            const logOutput = document.getElementById('logOutput');
+            logOutput.value = data;
+
+            
+            const blob = new Blob([data], { type: 'text/plain' });
+
+            
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'firebase_logs.txt';
+
+            
+            link.click();
+        })
+        .catch(error => console.error('Error fetching logs:', error));
+}
+</script>
+</body>
+</html>

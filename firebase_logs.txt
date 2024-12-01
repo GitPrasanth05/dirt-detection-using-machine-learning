@@ -1,0 +1,880 @@
+14:56:52 - Dirt not found
+14:56:55 - Dirt not found
+14:56:58 - Dirt not found
+14:57:01 - Dirt not found
+14:57:04 - Dirt found
+14:57:07 - Dirt not found
+14:57:11 - Dirt found
+14:57:14 - Dirt found
+14:57:17 - Dirt found
+14:57:20 - Dirt found
+14:57:23 - Dirt found
+14:57:26 - Dirt found
+14:57:29 - Dirt found
+14:57:32 - Dirt found
+14:57:35 - Dirt found
+14:57:38 - Dirt not found
+14:57:41 - Dirt not found
+14:57:44 - Dirt not found
+14:57:47 - Dirt not found
+14:57:50 - Dirt not found
+14:57:53 - Dirt not found
+14:57:56 - Dirt not found
+14:57:59 - Dirt not found
+14:58:02 - Dirt not found
+14:58:05 - Dirt not found
+14:58:08 - Dirt not found
+14:58:11 - Dirt not found
+14:58:15 - Dirt not found
+14:58:18 - Dirt not found
+14:58:21 - Dirt not found
+14:58:24 - Dirt found
+14:58:27 - Dirt not found
+14:58:30 - Dirt not found
+14:58:33 - Dirt not found
+14:58:36 - Dirt not found
+14:58:39 - Dirt not found
+14:58:42 - Dirt not found
+14:58:45 - Dirt not found
+14:58:48 - Dirt not found
+14:58:51 - Dirt not found
+14:58:54 - Dirt not found
+14:58:57 - Dirt not found
+14:59:00 - Dirt not found
+14:59:03 - Dirt not found
+14:59:06 - Dirt not found
+14:59:09 - Dirt not found
+14:59:13 - Dirt not found
+14:59:16 - Dirt not found
+14:59:19 - Dirt not found
+14:59:22 - Dirt not found
+14:59:25 - Dirt not found
+14:59:28 - Dirt not found
+14:59:31 - Dirt not found
+14:59:35 - Dirt not found
+14:59:38 - Dirt not found
+14:59:41 - Dirt not found
+14:59:44 - Dirt not found
+14:59:47 - Dirt not found
+14:59:50 - Dirt not found
+14:59:53 - Dirt not found
+14:59:56 - Dirt not found
+14:59:59 - Dirt not found
+15:00:02 - Dirt not found
+15:00:05 - Dirt not found
+15:00:08 - Dirt not found
+15:00:11 - Dirt not found
+15:00:14 - Dirt not found
+15:00:17 - Dirt not found
+15:00:20 - Dirt not found
+15:00:23 - Dirt not found
+15:00:26 - Dirt not found
+15:00:29 - Dirt not found
+15:00:33 - Dirt not found
+15:00:36 - Dirt not found
+15:00:39 - Dirt not found
+15:00:42 - Dirt not found
+15:00:45 - Dirt not found
+15:00:48 - Dirt not found
+15:00:51 - Dirt not found
+15:00:54 - Dirt not found
+15:00:57 - Dirt not found
+15:01:00 - Dirt not found
+15:01:03 - Dirt not found
+15:01:06 - Dirt not found
+15:01:09 - Dirt not found
+15:01:12 - Dirt not found
+15:01:15 - Dirt not found
+15:01:18 - Dirt not found
+15:01:21 - Dirt not found
+15:01:24 - Dirt not found
+15:01:27 - Dirt not found
+15:01:30 - Dirt not found
+15:01:33 - Dirt not found
+15:01:36 - Dirt not found
+15:01:39 - Dirt not found
+15:01:42 - Dirt not found
+15:01:45 - Dirt not found
+15:01:48 - Dirt not found
+15:01:51 - Dirt found
+15:01:54 - Dirt found
+15:01:58 - Dirt not found
+15:02:01 - Dirt not found
+15:02:04 - Dirt not found
+15:02:07 - Dirt not found
+15:02:10 - Dirt not found
+15:02:13 - Dirt not found
+15:02:16 - Dirt not found
+15:02:19 - Dirt found
+15:02:22 - Dirt not found
+15:02:25 - Dirt not found
+15:02:28 - Dirt not found
+15:02:31 - Dirt not found
+15:02:34 - Dirt found
+15:02:37 - Dirt not found
+15:02:40 - Dirt found
+15:02:43 - Dirt found
+15:02:46 - Dirt found
+15:02:49 - Dirt found
+15:02:52 - Dirt found
+15:02:55 - Dirt found
+15:02:58 - Dirt found
+15:03:01 - Dirt found
+15:03:04 - Dirt not found
+15:03:07 - Dirt not found
+15:03:10 - Dirt not found
+15:03:13 - Dirt not found
+15:03:16 - Dirt not found
+15:03:19 - Dirt not found
+15:03:22 - Dirt not found
+15:03:26 - Dirt not found
+15:03:29 - Dirt not found
+15:03:32 - Dirt not found
+15:03:35 - Dirt not found
+15:03:38 - Dirt not found
+15:03:41 - Dirt not found
+15:03:44 - Dirt not found
+15:03:47 - Dirt not found
+15:03:50 - Dirt not found
+15:03:53 - Dirt not found
+15:03:56 - Dirt not found
+15:03:59 - Dirt not found
+15:04:02 - Dirt not found
+15:04:05 - Dirt not found
+15:04:08 - Dirt not found
+15:04:11 - Dirt not found
+15:04:14 - Dirt not found
+15:04:17 - Dirt not found
+15:04:20 - Dirt not found
+15:04:23 - Dirt not found
+15:04:26 - Dirt not found
+15:04:29 - Dirt not found
+15:04:32 - Dirt not found
+15:04:35 - Dirt not found
+15:04:38 - Dirt not found
+15:04:42 - Dirt not found
+15:04:45 - Dirt not found
+15:04:48 - Dirt not found
+15:04:51 - Dirt not found
+15:04:54 - Dirt not found
+15:04:57 - Dirt not found
+15:05:00 - Dirt not found
+15:05:03 - Dirt not found
+15:05:06 - Dirt not found
+15:05:09 - Dirt not found
+15:05:12 - Dirt not found
+15:05:15 - Dirt not found
+15:05:18 - Dirt not found
+15:05:21 - Dirt not found
+15:05:24 - Dirt not found
+15:05:27 - Dirt not found
+15:05:30 - Dirt not found
+15:05:33 - Dirt not found
+15:05:36 - Dirt not found
+15:05:39 - Dirt not found
+15:05:42 - Dirt not found
+15:05:45 - Dirt not found
+15:05:48 - Dirt not found
+15:05:51 - Dirt not found
+15:05:54 - Dirt not found
+15:05:57 - Dirt not found
+15:06:00 - Dirt not found
+15:06:04 - Dirt not found
+15:06:07 - Dirt not found
+15:06:10 - Dirt not found
+15:06:13 - Dirt not found
+15:06:16 - Dirt not found
+15:06:19 - Dirt not found
+15:06:22 - Dirt not found
+15:06:25 - Dirt not found
+15:06:28 - Dirt not found
+15:06:31 - Dirt not found
+15:06:34 - Dirt not found
+15:06:37 - Dirt not found
+15:06:40 - Dirt not found
+15:06:43 - Dirt not found
+15:06:46 - Dirt not found
+15:06:49 - Dirt not found
+15:06:52 - Dirt not found
+15:06:55 - Dirt not found
+15:06:58 - Dirt not found
+15:07:01 - Dirt not found
+15:07:04 - Dirt not found
+15:07:07 - Dirt not found
+09:11:30 - Dirt found
+09:11:33 - Dirt not found
+09:11:36 - Dirt found
+09:11:39 - Dirt found
+09:11:42 - Dirt found
+09:11:45 - Dirt found
+09:11:48 - Dirt found
+09:14:54 - Dirt not found
+09:14:59 - Dirt not found
+09:15:03 - Dirt not found
+09:15:06 - Dirt not found
+09:15:09 - Dirt not found
+09:15:12 - Dirt not found
+09:15:15 - Dirt found
+09:15:18 - Dirt found
+09:15:21 - Dirt not found
+09:15:24 - Dirt not found
+15:09:18 - Dirt not found
+15:09:38 - Dirt not found
+15:09:41 - Dirt not found
+15:09:44 - Dirt found
+15:09:47 - Dirt found
+15:09:50 - Dirt found
+15:09:53 - Dirt found
+15:09:57 - Dirt not found
+15:10:00 - Dirt not found
+15:10:03 - Dirt found
+15:10:06 - Dirt not found
+15:10:09 - Dirt found
+15:10:12 - Dirt found
+15:10:15 - Dirt not found
+15:10:18 - Dirt found
+15:10:21 - Dirt found
+23:09:14 - Dirt not found
+23:09:17 - Dirt not found
+23:09:20 - Dirt not found
+23:09:23 - Dirt not found
+23:09:26 - Dirt not found
+23:09:29 - Dirt not found
+23:09:32 - Dirt not found
+23:09:35 - Dirt not found
+23:09:38 - Dirt not found
+23:09:41 - Dirt not found
+23:09:44 - Dirt not found
+23:09:47 - Dirt not found
+23:09:50 - Dirt not found
+23:09:53 - Dirt not found
+23:09:56 - Dirt not found
+23:09:59 - Dirt not found
+23:10:02 - Dirt not found
+23:10:06 - Dirt not found
+23:10:09 - Dirt not found
+23:10:12 - Dirt not found
+23:10:15 - Dirt not found
+23:10:18 - Dirt not found
+23:10:21 - Dirt found
+23:10:24 - Dirt found
+23:10:27 - Dirt found
+23:10:30 - Dirt found
+23:10:33 - Dirt found
+23:10:36 - Dirt not found
+23:10:39 - Dirt not found
+23:10:42 - Dirt not found
+23:10:45 - Dirt found
+23:10:48 - Dirt not found
+23:10:51 - Dirt found
+23:10:54 - Dirt found
+23:10:57 - Dirt not found
+23:11:01 - Dirt not found
+23:11:04 - Dirt not found
+23:11:07 - Dirt not found
+23:11:10 - Dirt not found
+23:11:13 - Dirt not found
+23:11:16 - Dirt not found
+23:11:19 - Dirt not found
+23:11:22 - Dirt not found
+23:11:25 - Dirt not found
+23:11:28 - Dirt not found
+23:11:31 - Dirt found
+23:11:34 - Dirt found
+23:11:37 - Dirt not found
+23:11:40 - Dirt not found
+23:11:43 - Dirt found
+23:11:46 - Dirt found
+23:11:49 - Dirt found
+23:11:52 - Dirt found
+23:11:55 - Dirt found
+23:11:58 - Dirt found
+23:12:01 - Dirt found
+23:12:04 - Dirt found
+23:12:08 - Dirt found
+23:12:11 - Dirt not found
+23:12:14 - Dirt found
+23:12:17 - Dirt not found
+23:12:20 - Dirt found
+23:12:23 - Dirt found
+23:12:26 - Dirt found
+23:12:29 - Dirt not found
+23:12:32 - Dirt not found
+23:12:35 - Dirt not found
+23:12:38 - Dirt not found
+23:12:41 - Dirt not found
+23:12:44 - Dirt found
+23:12:47 - Dirt found
+23:12:50 - Dirt not found
+23:12:53 - Dirt not found
+23:12:56 - Dirt found
+23:13:00 - Dirt not found
+23:13:03 - Dirt found
+23:13:06 - Dirt found
+23:13:09 - Dirt found
+23:13:12 - Dirt not found
+23:13:15 - Dirt not found
+23:13:26 - Dirt not found
+23:13:29 - Dirt not found
+23:13:32 - Dirt found
+23:13:35 - Dirt found
+23:13:38 - Dirt not found
+23:13:41 - Dirt not found
+23:13:44 - Dirt not found
+23:13:48 - Dirt found
+23:13:51 - Dirt not found
+23:13:54 - Dirt not found
+23:13:57 - Dirt not found
+23:14:00 - Dirt not found
+23:14:03 - Dirt found
+23:14:06 - Dirt found
+23:14:09 - Dirt found
+23:14:12 - Dirt found
+23:14:15 - Dirt not found
+23:14:18 - Dirt not found
+23:14:21 - Dirt found
+23:14:24 - Dirt not found
+23:14:27 - Dirt not found
+23:14:30 - Dirt not found
+23:14:33 - Dirt not found
+23:14:36 - Dirt not found
+23:14:39 - Dirt not found
+23:14:42 - Dirt not found
+23:14:45 - Dirt not found
+23:14:48 - Dirt not found
+23:14:51 - Dirt not found
+23:14:54 - Dirt not found
+23:14:57 - Dirt not found
+23:15:00 - Dirt not found
+23:15:03 - Dirt not found
+23:15:07 - Dirt not found
+23:15:10 - Dirt not found
+23:15:13 - Dirt not found
+23:15:16 - Dirt not found
+23:15:19 - Dirt not found
+23:15:22 - Dirt not found
+23:15:25 - Dirt not found
+23:15:28 - Dirt not found
+23:15:31 - Dirt not found
+23:15:34 - Dirt not found
+23:15:37 - Dirt not found
+23:15:40 - Dirt not found
+23:15:43 - Dirt not found
+23:15:46 - Dirt not found
+23:15:49 - Dirt not found
+23:15:52 - Dirt not found
+23:15:55 - Dirt not found
+23:15:58 - Dirt not found
+23:16:01 - Dirt not found
+23:16:04 - Dirt not found
+23:16:07 - Dirt not found
+23:16:10 - Dirt not found
+23:16:13 - Dirt not found
+23:16:16 - Dirt not found
+23:16:20 - Dirt not found
+23:16:23 - Dirt not found
+23:16:26 - Dirt not found
+23:16:29 - Dirt not found
+23:16:32 - Dirt not found
+23:16:35 - Dirt not found
+23:16:38 - Dirt not found
+23:16:41 - Dirt not found
+23:16:44 - Dirt not found
+23:16:47 - Dirt not found
+23:16:50 - Dirt not found
+23:16:53 - Dirt not found
+23:16:56 - Dirt not found
+23:16:59 - Dirt not found
+23:17:02 - Dirt not found
+23:17:05 - Dirt not found
+23:17:08 - Dirt not found
+23:17:11 - Dirt not found
+23:17:14 - Dirt not found
+23:17:17 - Dirt not found
+23:17:20 - Dirt not found
+23:17:23 - Dirt not found
+23:17:26 - Dirt not found
+23:17:29 - Dirt not found
+23:17:32 - Dirt not found
+23:17:35 - Dirt not found
+23:17:39 - Dirt not found
+23:17:42 - Dirt not found
+23:17:45 - Dirt not found
+23:17:48 - Dirt not found
+23:17:51 - Dirt not found
+23:17:54 - Dirt not found
+23:17:57 - Dirt not found
+23:18:00 - Dirt not found
+23:18:03 - Dirt not found
+23:18:06 - Dirt not found
+23:18:09 - Dirt not found
+23:18:12 - Dirt not found
+23:18:15 - Dirt not found
+23:18:18 - Dirt not found
+23:18:21 - Dirt not found
+23:18:24 - Dirt not found
+23:18:27 - Dirt not found
+23:18:30 - Dirt not found
+23:18:33 - Dirt not found
+23:18:36 - Dirt not found
+23:18:39 - Dirt not found
+23:18:42 - Dirt not found
+23:18:45 - Dirt not found
+23:18:48 - Dirt not found
+23:18:51 - Dirt not found
+23:18:54 - Dirt not found
+23:18:58 - Dirt not found
+23:19:01 - Dirt not found
+23:19:04 - Dirt not found
+23:19:07 - Dirt not found
+23:19:10 - Dirt not found
+23:19:13 - Dirt not found
+23:19:16 - Dirt not found
+23:19:19 - Dirt not found
+23:19:22 - Dirt not found
+23:19:25 - Dirt not found
+23:19:28 - Dirt not found
+23:19:31 - Dirt not found
+23:19:34 - Dirt not found
+23:19:37 - Dirt not found
+23:19:40 - Dirt not found
+23:19:43 - Dirt not found
+23:19:46 - Dirt not found
+23:19:49 - Dirt not found
+23:19:52 - Dirt not found
+23:19:55 - Dirt not found
+23:19:58 - Dirt not found
+23:20:02 - Dirt not found
+23:20:05 - Dirt not found
+23:20:08 - Dirt not found
+23:20:11 - Dirt not found
+23:20:14 - Dirt not found
+23:20:17 - Dirt not found
+23:20:20 - Dirt not found
+23:20:23 - Dirt not found
+23:20:26 - Dirt not found
+23:20:29 - Dirt not found
+23:20:32 - Dirt not found
+23:20:35 - Dirt not found
+23:20:38 - Dirt not found
+23:20:41 - Dirt not found
+23:20:44 - Dirt not found
+23:20:47 - Dirt not found
+23:20:50 - Dirt not found
+23:20:53 - Dirt not found
+23:20:56 - Dirt not found
+23:20:59 - Dirt not found
+23:21:02 - Dirt not found
+23:21:06 - Dirt not found
+23:21:09 - Dirt not found
+23:21:12 - Dirt not found
+23:21:15 - Dirt not found
+23:21:18 - Dirt not found
+23:21:21 - Dirt not found
+23:21:24 - Dirt not found
+23:21:27 - Dirt not found
+23:21:30 - Dirt not found
+23:21:33 - Dirt not found
+23:21:36 - Dirt not found
+23:21:39 - Dirt not found
+23:21:42 - Dirt not found
+23:21:45 - Dirt not found
+23:21:48 - Dirt not found
+23:21:51 - Dirt not found
+23:21:55 - Dirt not found
+23:21:58 - Dirt not found
+23:22:01 - Dirt not found
+23:22:04 - Dirt not found
+23:22:07 - Dirt not found
+23:22:10 - Dirt not found
+23:22:13 - Dirt not found
+23:22:16 - Dirt not found
+23:22:19 - Dirt not found
+23:22:22 - Dirt not found
+23:22:25 - Dirt not found
+23:22:28 - Dirt not found
+23:22:31 - Dirt not found
+23:22:34 - Dirt found
+23:22:37 - Dirt not found
+23:22:40 - Dirt not found
+23:22:43 - Dirt not found
+23:22:46 - Dirt not found
+23:22:49 - Dirt not found
+23:22:52 - Dirt not found
+23:22:55 - Dirt not found
+23:22:58 - Dirt not found
+23:23:02 - Dirt not found
+23:23:05 - Dirt not found
+23:23:08 - Dirt not found
+23:23:11 - Dirt not found
+23:23:14 - Dirt not found
+23:23:17 - Dirt not found
+23:23:20 - Dirt not found
+23:23:23 - Dirt not found
+23:23:26 - Dirt not found
+23:23:29 - Dirt not found
+23:23:32 - Dirt not found
+23:23:35 - Dirt not found
+23:23:38 - Dirt not found
+23:23:41 - Dirt not found
+23:23:44 - Dirt not found
+23:23:47 - Dirt not found
+23:23:50 - Dirt not found
+23:23:53 - Dirt not found
+23:23:56 - Dirt not found
+23:23:59 - Dirt not found
+23:24:02 - Dirt not found
+23:24:05 - Dirt not found
+23:24:08 - Dirt not found
+23:24:11 - Dirt not found
+23:24:14 - Dirt not found
+23:24:17 - Dirt not found
+23:24:21 - Dirt not found
+23:24:24 - Dirt not found
+23:24:27 - Dirt not found
+23:24:30 - Dirt not found
+23:24:33 - Dirt not found
+23:24:36 - Dirt not found
+23:24:39 - Dirt not found
+23:24:42 - Dirt not found
+23:24:45 - Dirt not found
+23:24:48 - Dirt not found
+23:24:51 - Dirt not found
+23:24:54 - Dirt not found
+23:24:57 - Dirt not found
+23:25:00 - Dirt not found
+23:25:03 - Dirt not found
+23:25:06 - Dirt not found
+14:37:33 - Dirt found
+14:37:36 - Dirt not found
+14:37:39 - Dirt found
+14:37:42 - Dirt not found
+14:37:45 - Dirt found
+14:37:48 - Dirt found
+14:37:51 - Dirt found
+14:37:54 - Dirt found
+14:37:57 - Dirt not found
+14:38:00 - Dirt not found
+14:38:03 - Dirt found
+19:01:19 - Dirt not found
+19:01:22 - Dirt not found
+19:01:25 - Dirt not found
+19:01:28 - Dirt not found
+19:01:31 - Dirt not found
+19:01:34 - Dirt not found
+19:01:37 - Dirt not found
+19:01:40 - Dirt not found
+19:01:44 - Dirt not found
+19:01:47 - Dirt not found
+19:14:14 - Dirt found
+19:14:17 - Dirt not found
+19:14:20 - Dirt not found
+19:14:23 - Dirt found
+19:14:26 - Dirt found
+19:14:29 - Dirt not found
+19:14:32 - Dirt not found
+19:14:35 - Dirt not found
+19:14:38 - Dirt not found
+19:14:41 - Dirt not found
+19:14:44 - Dirt not found
+19:14:47 - Dirt not found
+19:14:50 - Dirt not found
+19:14:53 - Dirt not found
+11:04:23 - Dirt not found
+11:04:26 - Dirt not found
+11:04:29 - Dirt not found
+11:04:32 - Dirt not found
+11:04:35 - Dirt not found
+11:04:38 - Dirt not found
+11:04:41 - Dirt not found
+11:04:44 - Dirt not found
+11:04:47 - Dirt not found
+11:04:50 - Dirt not found
+11:04:53 - Dirt not found
+11:04:56 - Dirt not found
+11:05:00 - Dirt not found
+11:05:03 - Dirt not found
+11:05:06 - Dirt not found
+11:05:09 - Dirt not found
+11:05:12 - Dirt not found
+11:05:15 - Dirt not found
+11:05:18 - Dirt not found
+11:05:21 - Dirt not found
+11:05:24 - Dirt not found
+11:05:27 - Dirt not found
+11:05:30 - Dirt not found
+11:05:33 - Dirt not found
+11:05:36 - Dirt not found
+11:05:39 - Dirt found
+11:05:42 - Dirt not found
+11:07:07 - Dirt not found
+11:07:10 - Dirt found
+11:07:13 - Dirt found
+11:07:16 - Dirt not found
+11:07:19 - Dirt not found
+11:07:22 - Dirt not found
+11:07:25 - Dirt not found
+11:07:28 - Dirt not found
+11:07:31 - Dirt not found
+11:07:54 - Dirt not found
+11:07:57 - Dirt not found
+11:08:00 - Dirt not found
+11:08:03 - Dirt not found
+11:08:06 - Dirt not found
+11:08:09 - Dirt not found
+11:08:12 - Dirt not found
+11:08:15 - Dirt not found
+11:08:18 - Dirt not found
+11:08:21 - Dirt not found
+11:08:24 - Dirt not found
+11:08:27 - Dirt not found
+11:08:30 - Dirt not found
+11:08:33 - Dirt not found
+11:08:36 - Dirt not found
+11:08:39 - Dirt not found
+11:08:42 - Dirt not found
+11:08:45 - Dirt not found
+11:08:48 - Dirt not found
+11:08:51 - Dirt not found
+11:08:54 - Dirt not found
+11:08:58 - Dirt not found
+11:09:01 - Dirt not found
+11:09:04 - Dirt not found
+11:09:07 - Dirt not found
+11:09:10 - Dirt not found
+11:09:13 - Dirt not found
+11:09:16 - Dirt not found
+11:09:19 - Dirt not found
+11:09:22 - Dirt not found
+11:09:25 - Dirt not found
+11:09:28 - Dirt not found
+11:09:31 - Dirt not found
+11:09:34 - Dirt not found
+11:09:37 - Dirt not found
+11:09:40 - Dirt not found
+11:09:43 - Dirt not found
+11:09:46 - Dirt not found
+11:09:49 - Dirt not found
+11:09:52 - Dirt not found
+11:09:55 - Dirt not found
+11:09:58 - Dirt not found
+11:10:01 - Dirt not found
+11:10:04 - Dirt not found
+11:10:07 - Dirt not found
+11:10:10 - Dirt not found
+11:10:13 - Dirt not found
+11:10:17 - Dirt not found
+11:10:20 - Dirt not found
+11:10:23 - Dirt not found
+11:10:26 - Dirt not found
+11:10:29 - Dirt not found
+11:10:32 - Dirt not found
+11:10:35 - Dirt not found
+11:10:38 - Dirt not found
+11:10:41 - Dirt not found
+11:10:44 - Dirt not found
+11:10:47 - Dirt not found
+11:10:50 - Dirt not found
+11:10:53 - Dirt not found
+11:10:56 - Dirt not found
+11:10:59 - Dirt not found
+11:11:02 - Dirt not found
+11:11:05 - Dirt not found
+11:11:08 - Dirt not found
+11:11:11 - Dirt not found
+11:11:14 - Dirt not found
+11:11:17 - Dirt not found
+11:11:20 - Dirt not found
+11:11:23 - Dirt not found
+11:11:26 - Dirt not found
+11:11:29 - Dirt not found
+11:11:32 - Dirt not found
+11:11:35 - Dirt not found
+11:11:38 - Dirt not found
+11:11:42 - Dirt not found
+11:11:45 - Dirt not found
+11:11:48 - Dirt not found
+11:11:51 - Dirt not found
+11:11:54 - Dirt found
+11:11:57 - Dirt found
+11:12:00 - Dirt not found
+11:12:03 - Dirt not found
+11:12:06 - Dirt not found
+11:12:09 - Dirt not found
+11:12:12 - Dirt not found
+11:12:15 - Dirt not found
+11:12:18 - Dirt not found
+11:12:21 - Dirt not found
+11:12:24 - Dirt not found
+11:12:27 - Dirt not found
+11:12:30 - Dirt not found
+11:12:33 - Dirt not found
+11:12:36 - Dirt not found
+11:12:39 - Dirt not found
+11:12:42 - Dirt not found
+11:12:45 - Dirt not found
+11:12:48 - Dirt not found
+11:12:51 - Dirt not found
+11:12:54 - Dirt not found
+11:12:57 - Dirt not found
+11:13:00 - Dirt not found
+11:13:03 - Dirt not found
+11:13:07 - Dirt not found
+11:13:10 - Dirt not found
+11:13:13 - Dirt not found
+11:13:16 - Dirt not found
+11:13:19 - Dirt not found
+11:13:22 - Dirt not found
+11:13:25 - Dirt not found
+11:13:28 - Dirt not found
+11:13:31 - Dirt not found
+11:13:34 - Dirt not found
+11:13:37 - Dirt not found
+11:13:40 - Dirt not found
+11:13:43 - Dirt not found
+11:13:46 - Dirt not found
+11:13:49 - Dirt not found
+11:13:52 - Dirt not found
+11:13:55 - Dirt not found
+11:13:58 - Dirt not found
+11:14:01 - Dirt not found
+11:14:04 - Dirt not found
+11:14:07 - Dirt not found
+11:14:10 - Dirt not found
+11:14:13 - Dirt not found
+11:14:16 - Dirt not found
+11:14:19 - Dirt not found
+11:14:23 - Dirt not found
+11:14:26 - Dirt not found
+11:14:29 - Dirt not found
+11:14:32 - Dirt not found
+11:14:35 - Dirt not found
+11:14:38 - Dirt not found
+11:14:41 - Dirt not found
+11:14:44 - Dirt not found
+11:14:47 - Dirt not found
+11:14:50 - Dirt not found
+11:14:53 - Dirt not found
+11:14:56 - Dirt not found
+11:14:59 - Dirt not found
+11:15:02 - Dirt not found
+11:15:05 - Dirt not found
+11:15:08 - Dirt not found
+11:15:11 - Dirt not found
+11:15:14 - Dirt not found
+11:15:17 - Dirt not found
+11:15:20 - Dirt not found
+11:15:23 - Dirt not found
+11:15:26 - Dirt not found
+11:15:29 - Dirt not found
+11:15:32 - Dirt not found
+11:15:35 - Dirt not found
+11:15:38 - Dirt not found
+11:15:41 - Dirt not found
+11:15:44 - Dirt not found
+11:15:47 - Dirt not found
+11:15:50 - Dirt not found
+11:15:53 - Dirt not found
+11:15:57 - Dirt not found
+11:16:00 - Dirt not found
+11:16:03 - Dirt not found
+11:16:06 - Dirt not found
+11:16:09 - Dirt not found
+11:16:12 - Dirt not found
+11:16:15 - Dirt not found
+11:16:18 - Dirt not found
+11:16:21 - Dirt not found
+11:16:24 - Dirt not found
+11:16:27 - Dirt not found
+11:16:30 - Dirt not found
+11:16:33 - Dirt not found
+11:16:36 - Dirt not found
+11:16:39 - Dirt not found
+11:16:42 - Dirt not found
+11:16:45 - Dirt not found
+11:16:48 - Dirt not found
+11:16:51 - Dirt not found
+11:16:54 - Dirt not found
+11:16:57 - Dirt not found
+11:17:00 - Dirt not found
+11:17:03 - Dirt not found
+11:17:06 - Dirt not found
+11:17:09 - Dirt not found
+11:17:12 - Dirt not found
+11:17:15 - Dirt not found
+11:17:18 - Dirt not found
+11:17:21 - Dirt not found
+11:17:25 - Dirt not found
+11:17:28 - Dirt not found
+11:17:31 - Dirt not found
+11:17:34 - Dirt not found
+11:17:37 - Dirt not found
+11:17:40 - Dirt not found
+11:17:43 - Dirt not found
+11:17:46 - Dirt not found
+11:17:49 - Dirt not found
+11:17:52 - Dirt not found
+11:17:55 - Dirt not found
+11:17:58 - Dirt not found
+11:18:01 - Dirt not found
+11:18:04 - Dirt not found
+11:18:07 - Dirt not found
+11:18:10 - Dirt not found
+11:18:13 - Dirt not found
+11:18:16 - Dirt not found
+11:18:19 - Dirt not found
+11:18:22 - Dirt not found
+11:18:25 - Dirt not found
+11:18:28 - Dirt not found
+11:18:31 - Dirt not found
+11:18:34 - Dirt not found
+11:18:38 - Dirt not found
+11:18:41 - Dirt not found
+11:18:44 - Dirt not found
+11:18:47 - Dirt not found
+11:18:50 - Dirt not found
+11:18:53 - Dirt not found
+11:18:56 - Dirt not found
+11:18:59 - Dirt not found
+11:19:02 - Dirt not found
+11:19:05 - Dirt not found
+11:19:08 - Dirt not found
+11:19:11 - Dirt not found
+11:19:14 - Dirt not found
+11:19:17 - Dirt not found
+11:19:20 - Dirt not found
+11:19:23 - Dirt not found
+11:19:26 - Dirt not found
+11:19:29 - Dirt not found
+11:19:32 - Dirt not found
+11:19:35 - Dirt not found
+11:19:38 - Dirt not found
+11:19:41 - Dirt not found
+11:19:45 - Dirt not found
+11:19:48 - Dirt not found
+11:19:51 - Dirt not found
+11:19:54 - Dirt not found
+11:19:57 - Dirt found
+11:20:00 - Dirt not found
+11:20:03 - Dirt found
+11:20:06 - Dirt found
+11:20:09 - Dirt not found
+11:20:12 - Dirt found
+11:20:15 - Dirt found
+11:20:19 - Dirt found
+11:20:22 - Dirt not found
+11:20:25 - Dirt not found
+11:20:28 - Dirt not found
+11:20:31 - Dirt not found
+11:20:34 - Dirt not found
+11:20:37 - Dirt not found
+11:20:40 - Dirt not found
+11:20:43 - Dirt not found
+11:20:46 - Dirt not found
+11:20:49 - Dirt not found
+11:20:52 - Dirt not found
+11:20:55 - Dirt not found
+11:20:58 - Dirt not found
+11:21:01 - Dirt not found
+11:21:04 - Dirt not found
+11:21:07 - Dirt not found

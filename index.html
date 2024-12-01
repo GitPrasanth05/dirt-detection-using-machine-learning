@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIRT DETECTION</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f4f4f9;
+            background-image: url(./background.jpg);
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ef7e8d;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+            background-image: url(./check\ bg.jpg);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            font-size: 2em;
+            margin: 0 0 20px 0;
+        }
+        .video-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+        }
+        .video-feed {
+            flex: 1;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            background-color: #000;
+            transition: transform 0.3s;
+        }
+        .video-feed:hover {
+            transform: scale(1.05);
+        }
+        .video-feed h2 {
+            text-align: center;
+            background-color: #eef4a6;
+            background-image: url(./in\ bg.avif);
+            color: white;
+            margin: 0;
+            padding: 10px;
+            font-size: 1.2em;
+        }
+        .video-feed video {
+            width: 100%;
+            display: block;
+        }
+        .log-container {
+            margin-top: 20px;
+            background-color: #282c34;
+            color: #abb2bf;
+            padding: 20px;
+            border-radius: 8px;
+            height: 200px;
+            overflow-y: auto;
+        }
+        .log-container h2 {
+            margin: 0 0 10px 0;
+            font-size: 1.2em;
+            color: #2ec6de;
+        }
+        .log-container textarea {
+            width: 100%;
+            height: 100%;
+            background-color: #282c34;
+            color: #abb2bf;
+            border: none;
+            resize: none;
+            font-family: 'Courier New', monospace;
+            overflow-y: auto;
+        }
+        .log-message {
+            margin: 0;
+            font-family: 'Courier New', monospace;
+        }
+        .dirt-found {
+            color: red;
+        }
+        .dirt-not-found {
+            color: green;
+        }
+        .control-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .control-buttons button {
+            padding: 10px 20px;
+            font-size: 1em;
+            background-image: url(./demo2.jpeg);
+            color: rgb(255, 230, 4);
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .control-buttons button:hover {
+            background-color: #7247df;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AUTOMATIC STAIN DETECTION</h1>
+    </header>
+    <main>
+        <div class="video-container">
+            <div class="video-feed">
+                <h2>Original Frame</h2>
+                <img id="originalVideo" src="/video_feed_original" alt="Original Frame">
+            </div>
+            <div class="video-feed">
+                <h2>Processed Frame</h2>
+                <img id="processedVideo" src="/video_feed_processed" alt="Processed Frame">
+            </div>
+        </div>
+        <div class="control-buttons">
+            <button id="playButton">Play</button>
+            <button id="pauseButton">Pause</button>
+            <button id="stopButton">Stop</button>
+        </div>
+        <div class="log-container" id="logContainer">
+            <h2>Logs</h2>
+            <textarea id="logOutput" readonly></textarea>
+        </div>
+    </main>
+    <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-database.js"></script>
+    <script>
+        // Firebase configuration
+        const firebaseConfig = {
+            apiKey: "AIzaSyC3TblPxFZ-DH7it_ITyXNy6xTgr74wbVY",
+            authDomain: "automatic-dirt-detection.firebaseapp.com",
+            databaseURL: "https://automatic-dirt-detection-default-rtdb.firebaseio.com",
+            projectId: "automatic-dirt-detection",
+            storageBucket: "automatic-dirt-detection.appspot.com",
+            messagingSenderId: "610663342386",
+            appId: "1:610663342386:web:584f1d6fb86c58884b772b"
+        };
+
+        // Initialize Firebase
+        const app = firebase.initializeApp(firebaseConfig);
+        const database = firebase.database();
+
+        const logOutput = document.getElementById('logOutput');
+        const playButton = document.getElementById('playButton');
+        const pauseButton = document.getElementById('pauseButton');
+        const stopButton = document.getElementById('stopButton');
+
+        function logMessage(message) {
+            const time = new Date().toLocaleTimeString();
+            logOutput.value += `[${time}] ${message}\n`;
+            logOutput.scrollTop = logOutput.scrollHeight;
+            firebase.database().ref('logs').push({
+                time: time,
+                message: message
+            });
+        }
+
+        // Video controls
+        playButton.addEventListener('click', () => {
+            document.getElementById('originalVideo').play();
+            document.getElementById('processedVideo').play();
+            logMessage('Play button clicked');
+        });
+
+        pauseButton.addEventListener('click', () => {
+            document.getElementById('originalVideo').pause();
+            document.getElementById('processedVideo').pause();
+            logMessage('Pause button clicked');
+        });
+
+        stopButton.addEventListener('click', () => {
+            document.getElementById('originalVideo').pause();
+            document.getElementById('processedVideo').pause();
+            document.getElementById('originalVideo').currentTime = 0;
+            document.getElementById('processedVideo').currentTime = 0;
+            logMessage('Stop button clicked');
+        });
+
+        // Function to fetch and display logs
+        function displayLogs() {
+            firebase.database().ref('logs').once('value', (snapshot) => {
+                snapshot.forEach((childSnapshot) => {
+                    const log = childSnapshot.val();
+                    const logMessage = `[${log.time}] ${log.message}`;
+                    logOutput.value += `${logMessage}\n`;
+                });
+                logOutput.scrollTop = logOutput.scrollHeight;
+            });
+        }
+
+        // Call the displayLogs function to initially load logs
+        displayLogs();
+
+        // Real-time update of logs when new logs are added
+        firebase.database().ref('logs').on('child_added', (snapshot) => {
+            const log = snapshot.val();
+            const logMessage = `[${log.time}] ${log.message}`;
+            logOutput.value += `${logMessage}\n`;
+            logOutput.scrollTop = logOutput.scrollHeight;
+        });
+    </script>
+</body>
+</html>
